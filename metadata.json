@@ -1,0 +1,6 @@
+{
+  "name": "Music Player",
+  "description": "Modern offline music player with device library scanning, custom playlist manager, and full-screen playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
